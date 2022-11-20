@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saya lulusan dari SMAN 4 PALU dengan jurusan IPA yang berada
+di kelas IPA 2 dan merupakan salah satu anggota OSIS Periode 2019-2020. Sebelumnya
+ketika SMP saya bersekolah di SMPN 2 Sukodadi dan SD di MINU Terate Putri Gresik.
+Untuk TK saya lupa nama sekolahnya :("
+        android:fontFamily="serif-monospace"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

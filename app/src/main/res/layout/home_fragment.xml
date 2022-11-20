@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perkenalkan nama saya Afifa Wulandari
+dengan NIM F55121057. Saya tinggal di Jalan Tomampe No.27
+Kecamatan Palu Barat. Saya berusia 19thn. Mempunyai seorang
+adik laki-laki serta 2 kakak laki-laki dan 2 kakak perempuan"
+        android:textAlignment="center"
+        android:fontFamily="serif-monospace"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
